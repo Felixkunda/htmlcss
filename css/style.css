@@ -1,0 +1,17 @@
+body{
+    background-color: #a196b1;
+}
+hr {
+    border-style:dotted none none;
+    border-width: 5px;
+    border-color: grey;
+    height: 0%;
+    width: 40px;
+}
+h1{
+    color: aliceblue;
+}
+h3{
+    color: aliceblue;
+}
+    
